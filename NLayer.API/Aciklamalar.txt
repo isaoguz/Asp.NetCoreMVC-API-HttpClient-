@@ -1,0 +1,21 @@
+﻿Öncelikle bir productController oluşturduk ve içerisine temel anlamda CRUD operasyonlarını HTTP methodları ile 
+yazdık. Custom BaseController içerisinde gelebilecek yanıtları durum kodlarını daha sade bir bicimde CreateActionResult
+ile belirttik.
+
+
+Filters Tanımladık. Bunun amacı Bizim service klasöründe tanımladığımız validasyonlar için bizim belirlediğimiz şekilde
+bir hata mesajı dönmesini sağlamaktı. Bunun için filter kullanırız oluşturduğumuz filter validasyonlara otomatik olarak
+eşleşir, api tarafında kendi filterımızı aktif edebilmek için program.cs içerisine configure ederiz.
+
+Middleware => uygulamaya bir request gelince aşama aşama middlewarlerden geçer response olucaksa da yinne middlewarelerden
+geçer.
+
+Global anlamda hataları ele alabilmek için UseCustomExceptionHandler kullanıldı ve içerisine Service katmanına tanımladığın
+exception içerisinde ki hata türlerini belirrtin. Daha sonra bu hataları Service katmanında services içerisinde ki
+service classında if else ile kullandık.
+
+
+AutoFac kütüphanesi => DI contaioner den daha zengin bir kütüphanedir.  AutoFac dependency Injection kullanıldı. Program.cs e 
+yazıldı. Daha sonra Modul adında bir klasör oluşturulup içerisine ekleme işlemi yapıldı. AutoFac Dependency Injetion çok basit
+temel anlamda cümlenin sonunda ki ismi veriyoruz ve o instiancesini buluyor böyleyece program.cs kalabalık olmuyor. Modules içine 
+yazıldı.

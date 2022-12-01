@@ -1,0 +1,13 @@
+﻿Bu katman içerisinde BaseEntity yer alıyor bunun sayesinde kod kalabalığı yapmadan diğer entitlere miras verebiliyoruz.
+
+Repositories içerisinde IGenericRepository yer alıyor bunun sayesinde proje içerisinde kullanacağımız metodları interface
+içerisine yazabiliyoruz.
+
+Services içerisinde IService yer alıyor bu iş katmanında ki metodlarımıza tekabul ediyor. Bunun içinde de aynı şekilde 
+IService interfacesi yer alıyor.
+
+UnitOfWorks içerisinde IUnitOfWorks classı yer alıyor bu class ile veritabanına yapılacak işlemleri tek bir transaction
+üzerinden gerçekleştirebiliyoruz.
+
+DTOs içerisinde client tarafta gösterilecek propertiler yer almaktadır.CustomResponse içerisinde cliente dönecek hata
+kodu, data ve error yer almaktadır.

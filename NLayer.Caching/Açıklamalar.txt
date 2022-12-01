@@ -1,0 +1,10 @@
+﻿Artık ProductService yok ProductServiceWithCaching var artık bu kullanılacak. Bunu autoFac kısmında ayarlamamız gerekir
+Yani Modules de.
+
+Mantık şöyle yapılan işlemler in-memory ye kaydediliyor önce biz mesela veri tabanından ekleyip swaggerdan baksak bişey çıkmaz
+ama swaggerden ekleyip yenilersek veri tabanından eklediğimiz görülürür. 
+
+Şimdi biz Caching den önce IProduct service kullanırdık. ve autofac ile APi katmanında bulunan modules iççerisinde reposervicemoduleye
+dedikk i biz sana sonu service olan bişey istersek sen IProductserviceyi ver dedik ama şimdi eski productserviceyi 
+productwithnocaching yaptık ve oluşturduğumuz cachingi yani productservicewithcachingi yazdık sonu olarak. Bu şekilde ön belleğe
+alma işlemi çalıştırıldı.

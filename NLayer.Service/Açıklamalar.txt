@@ -1,0 +1,20 @@
+﻿Öncelikle entitilerden client tarafta gösterilecek olanları Dto ile ayırdık ve seçtik. Core katmanında yer almaktadır.
+
+
+Daha sonra entitleri ve dto ları birbirine mapledik. Service içerisinde mapping de yer almaktadır. AutoMapper kütüphanesi 
+kullanıldı.
+
+FluentValidation işlemini gerçekleştiricez yani client tarafda yanlış girilen bir yere hata dönmesini sağlayacağız.
+Öncelikle service katmanına Asp.Net Core FluentValidation kütüphanesini yüklüyoruz ve içerisine hangi class ile işlem 
+yapıcaksak birnevi mapping işlemini belirtiyoruz.  Daha sonra DI Container içerisinde yani APİ tarafında ki program.cs 
+içerisinde bunu belirtiyoruz. Ama bu işlem bize yeterli gelmedi. Bu yüzden filter kullanacağız. Fluent validation 
+kendi responsunu modelini dönüyordu biz bunu filter ile kendi modelimizi döndürüyoruz.
+
+Filter => controller içerisinde ki metodlarımıza gelen requesti müdahele etmek için kullanıyoruz. Request gelmeden önce
+geldikten sonra sonuç üretilmeden üretildikten sonra müdahele edebilmekteyiz.Eğer bir validasyon hatası varsa orada bizim
+kendi custom hatalarımızı döneceğiz. Bunun bir üst modeli middlevare olur.
+
+Bu sebep ile Api katmanına Filter klasörü oluşturuyoruz.
+
+
+

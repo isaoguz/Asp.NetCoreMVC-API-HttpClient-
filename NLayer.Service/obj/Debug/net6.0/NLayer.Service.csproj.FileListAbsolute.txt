@@ -1,0 +1,68 @@
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\KURSLAR\UDEMYKURSLAR\ASP.NETCOREAPI\NLayerUdemyApp - MVC -API\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll

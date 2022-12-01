@@ -1,0 +1,26 @@
+﻿Bu katman bizim veri erişim katmanımızdır. 
+Bu katmanda kullandığımız nuget paketler ; Ef Core Sql.Server, Ef Core, Ef Core Tools
+
+AppDbContext içerisinde bizim veritabanımız yer almaktadır. İçerisinde bizim tablolarımız bulunmaktadır.Bunun içerisinde
+bulunanan OnModelCreating içerisinde migrationlarımız oluşturulurken Fluent Api vasıtasıyla kullanacağımız bazı özellikleri
+tanımlarız fakat kod kirliliği olmaması için bunları Configurations içerisinde yazarız.
+
+Configurations içerisinde fluent api vasıtasıyla Migrationslar oluştururken belirli kısıtlamaları yazarız ve AppDbContext
+içerisinde hepsini birden tek kod ile çağırırız.
+
+Repositories içerisinde IGenericRepository tarafından impelemente edilen GenericRepository yer almaktadır. Bunun içinde
+yazdığımız metodların içini EfCore ile doldurmaktayız. 
+
+Seeds içerisinde proje ilk çalıştığında veri tabanı boş iken veri tabanına eklenicek veriler yer almaktadır. Bunları 
+AppDbContext içerisine de yazabiliriz ama görüntü kirliliği açısından yazmadık.
+
+UnitOfWorks içerisinde IUnitOfWorks de ki kaydetme komutlarını context ile sağlamış olduk.
+
+Önemli Not : Biz AppDbContext içerisinde ki base olarak belirlediğimiz yer yani connection stringi yazacağımız yer
+NLayer.API içerisinde ki appsetting.json dur buraya yazarak Program.cs içerisinde service ile belirtiriz ve belirli
+scoped işlemlerini program.cs içerisinde yazarız. 
+
+Nuget Package Manager ı kullanabilmek için Ef Core Design i kurarız api katmanına veya MVC katmanına.
+
+
+

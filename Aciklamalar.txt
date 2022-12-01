@@ -1,0 +1,3 @@
+MVC katmanýmýz artýk api ile haberleþicek. HttpClient yardýmýyla bunu saðlýyoruz.
+Öncelikle portlarýný alýyoruz. ve mvc katmanýna ProductApiService ve category için oluþturuyoruz. Daha sonra appsetting.json içerisine
+baseurl imizi yazýyoruz ve DI container içerisinde tanýmlama yapýyoruz. Daha sonra ProductApiService içerisine methodlarýmýzý yazýyoruz.
